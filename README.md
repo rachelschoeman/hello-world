@@ -1,2 +1,2 @@
 # hello-world
-for tutorial to learn git
+Hi! My name is Rachel and I am a sophomore
